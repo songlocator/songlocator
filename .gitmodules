@@ -1,0 +1,21 @@
+[submodule "songlocator-cli"]
+	path = songlocator-cli
+	url = git@github.com:songlocator/songlocator-cli.git
+[submodule "songlocator-base"]
+	path = songlocator-base
+	url = git@github.com:songlocator/songlocator-base.git
+[submodule "songlocator-spotify"]
+	path = songlocator-spotify
+	url = git@github.com:songlocator/songlocator-spotify.git
+[submodule "songlocator-exfm"]
+	path = songlocator-exfm
+	url = git@github.com:songlocator/songlocator-exfm.git
+[submodule "songlocator-deezer"]
+	path = songlocator-deezer
+	url = git@github.com:songlocator/songlocator-deezer.git
+[submodule "songlocator-youtube"]
+	path = songlocator-youtube
+	url = git@github.com:songlocator/songlocator-youtube.git
+[submodule "songlocator-soundcloud"]
+	path = songlocator-soundcloud
+	url = git@github.com:songlocator/songlocator-soundcloud.git
