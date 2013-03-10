@@ -2,6 +2,7 @@ MODULES = $(shell ls -1 | grep '^songlocator-')
 MODULES = \
 	songlocator-base \
 	songlocator-cli \
+	songlocator-api \
 	songlocator-soundcloud \
 	songlocator-youtube \
 	songlocator-exfm \

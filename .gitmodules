@@ -19,3 +19,6 @@
 [submodule "songlocator-soundcloud"]
 	path = songlocator-soundcloud
 	url = git@github.com:songlocator/songlocator-soundcloud.git
+[submodule "songlocator-api"]
+	path = songlocator-api
+	url = git@github.com:songlocator/songlocator-api.git
