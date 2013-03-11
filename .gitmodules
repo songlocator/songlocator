@@ -22,3 +22,6 @@
 [submodule "songlocator-api"]
 	path = songlocator-api
 	url = git@github.com:songlocator/songlocator-api.git
+[submodule "songlocator-rdio"]
+	path = songlocator-rdio
+	url = git@github.com:songlocator/songlocator-rdio.git
